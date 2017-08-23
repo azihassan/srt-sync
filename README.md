@@ -1,13 +1,13 @@
-#Simple command line subtitle synching utility
+# Simple command line subtitle synching utility
 
-##Compilation
+## Compilation
 
 You'll need :
 + A D compiler
 
 Compile with `dmd srt_sync.d -o srt-sync`
 
-##Execution
+## Execution
 
 This program lets you add or subtract seconds, minutes or hours from your .srt files. The input can be piped in, but you can also give it a filename with the -i argument. The same can be said about the output.
 
@@ -25,4 +25,4 @@ srt-sync, a simple subtitle synchronizing utility.
 -h    --help This help information.
 ```
 
-[Write up here]()
+[Write up here](http://pingfrommorocco.blogspot.com/2017/08/re-adjusting-out-of-sync-subtitles.html)
