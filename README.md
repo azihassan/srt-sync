@@ -25,4 +25,4 @@ srt-sync, a simple subtitle synchronizing utility.
 -h    --help This help information.
 ```
 
-[Write up here](http://pingfrommorocco.blogspot.com/2017/08/re-adjusting-out-of-sync-subtitles.html)
+[Write up here](https://blog.pingfrommorocco.com/2017/08/re-adjusting-out-of-sync-subtitles.html)
